@@ -1,0 +1,106 @@
+.head{
+    /* background-color: rgba(200, 100, 200, 0.3); */
+    background-color: goldenrod;
+    color: aliceblue;
+}
+.M{
+    text-decoration: none;
+}
+.O{
+    text-decoration: none;
+}
+.S{
+    text-decoration: none;
+}
+.waw{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    margin-right: 5%;
+    margin-left: 50%;
+}
+.waw .M{
+    margin-right: 40px;
+    margin-top: -5%;
+}
+.waw .O{
+    margin-right: 40px;
+}
+.waw .S{
+    margin-left: 20px;
+}
+.M:hover{
+    background-color: black;
+}
+.O:hover{
+    background-color: black;
+}
+.S:hover{
+    background-color: black;
+}
+
+
+.Sawir1{
+    display: flex;
+    justify-content: left;
+}
+span{
+    color: blue;
+}
+.Yeb{
+    background-color: goldenrod;
+    color: white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+}
+ label{
+    background-color: olive;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+    .submit{
+        margin-left: 50px;
+        margin-top: 10px;
+        font-size: 5px;
+        font-weight: 100px;
+    }
+    .select{
+        margin-left: 300px;
+        margin-right: 100px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 100;
+    }
+    .Foods{
+        gap: 30px;
+        padding: 50px;
+        border-radius: 200px;
+    }
+    .our{
+        font-size: 30px;
+    }
+    #babaay{
+       margin: 100;
+    }
+    .Table{
+        display: flex;
+    }
+    .Table{
+        margin-left: 30%;
+    }
+    .Table .Cunto{
+        margin-left: -10px;
+    }
+    .Table .Cabitaan{
+        margin-left: 200px;
+    }
+  .head{
+    display: flex;
+  }
+  .Foods .type img{
+    width: 150px;
+    height: 150px;
+  }
+  img{
+    border-radius: 50%;
+  }
